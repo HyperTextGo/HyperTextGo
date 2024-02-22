@@ -15,7 +15,7 @@
  ```
 - 👋 I’m HyperTextGo
 - 👀 I’m interested in Python 3.X
-- 🌱 I’m currently learning turtle and more Python!
+- 🌱 I'm currently focusing on tkinter. 
 - 💻 My os of choice is macOS
 
 <!---
