@@ -15,8 +15,7 @@
  ```
 - 👋 I’m HyperTextGo
 - 👀 I’m interested in Python 3.X
-- 🌱 I'm currently focusing on tkinter. 
-- 💻 My os of choice is macOS
+- 🌱 I'm currently focusing on random python stuff and FRC. 
 
 <!---
 HyperTextGo/HyperTextGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
